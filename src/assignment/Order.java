@@ -50,5 +50,4 @@ public class Order {
         details += "Total amount: " + totalAmount;
         return details;
     }
-    
 }
